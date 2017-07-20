@@ -1,2 +1,2 @@
 # event-bot-building
-Build you bot
+Build your bot
